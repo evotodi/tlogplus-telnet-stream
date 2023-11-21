@@ -1,0 +1,23 @@
+{
+  "name": "TLog Plus Telnet Stream",
+  "version": "1.0.0",
+  "description": "Streamer for TLogPlus",
+  "keywords": "logging, communication",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evotodi/tee-log-plus"
+  },
+  "authors": [
+    {
+      "name": "Evotodi"
+    },
+    {
+      "name": "dirkx@webweaving.org"
+    }
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/evotodi/tee-log-plus",
+  "dependencies": {
+    "evotodi/tee-log-plus": "~1.0.0"
+  }
+}
